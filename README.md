@@ -16,6 +16,7 @@ Bu Python scripti, Discord token'larını kontrol eden bir araçtır. Proje, Dis
 ## Notlar
 
 - Kodun hız sınırına takılmaması için VPN kullanılması önerilir.
+- Herhangi bir sorumluluk kabul etmiyoruz Kettip Scripts Tools olarak eğitim amaçlı sunmaktayız.
 
 ## İletişim
 
