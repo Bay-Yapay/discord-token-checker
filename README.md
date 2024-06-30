@@ -21,3 +21,6 @@ Bu Python scripti, Discord token'larını kontrol eden bir araçtır. Proje, Dis
 ## İletişim
 
 Discord sunucumuz: [Kettip Discord](https://discord.gg/msNr2fPaTP)
+
+## Sorumluluk Reddi
+-Bu depo eğitim amaçlıdır herhangi bir sorumluluk kabul etmiyoruz
